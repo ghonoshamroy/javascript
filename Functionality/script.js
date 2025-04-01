@@ -1,4 +1,4 @@
 function changeText(){
-    const text = document.getElementById('change-text').innerText;
-    
+    const fieldText = document.getElementById('input-text').ariaValueMax;
+    console.log(fieldText);
 }

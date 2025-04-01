@@ -19,3 +19,8 @@
     border-radius: 15px;
     margin: 10px 0px;
 }
+.footer-container{
+    text-align: center;
+    background-color: var(--background-color);
+    color: var(--base-color);
+}
