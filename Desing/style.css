@@ -1,0 +1,21 @@
+
+:root{
+    --text-color: #fff;
+    --background-color: #111;
+    --base-color: #f6f6f6;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    text-align: center;
+}
+
+.text-change-button{
+    padding: 8px 35px;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    border-radius: 15px;
+    margin: 10px 0px;
+}
